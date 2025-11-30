@@ -1,53 +1,87 @@
+<div align="center">
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⠶⢶⣦⣀⣴⠖⠛⠶⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡿⠋⠀⠀⣀⠈⠻⣧⠀⣀⣤⣬⣻⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⠁⢀⣴⠟⠛⠛⠷⣽⣿⠏⠁⠀⠙⢿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡏⢀⡾⠁⠀⠀⠀⠀⠘⢿⠀⠀⠀⠀⠀⣿⠀⠀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⡇⣸⠃⠀⠀⣀⡀⠀⠀⢸⡇⡾⢷⣀⡤⠿⠟⠛⠛⠛⠛⠛⠛⠿⢶⣤⣀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣾⡟⠁⡏⠀⠀⣸⡏⣿⠀⠀⢸⣧⠿⠋⠉⠀⠀⠀⠀⠀⠀⠀⣠⣀⡀⠀⣈⡙⢷⣄⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⠋⠀⣾⠀⠀⢳⡀⠀⢻⣿⡿⢀⡴⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠋⠉⠳⡀⢹⠀⠀⠹⣷⡄⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠘⣷⠀⣰⠏⠀⠀⠉⠙⠓⠲⣽⣴⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠹⣷⡀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣾⠃⠀⣀⣀⣀⣀⠀⠀⠈⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⡇
+⠀⠀⠀⠀⠀⠀⠀⠀⢠⣼⡧⠒⠋⠉⠀⠀⠉⠙⠢⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇
+⠀⠀⠀⠀⠀⠀⢠⡾⢋⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠱⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇
+⠀⠀⠀⠀⠀⢠⣿⠀⢸⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⡇
+⠀⠀⠀⠀⠀⠈⢿⣄⠀⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣇⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⡟⠀
+⠀⠀⠀⠀⠀⠀⠀⠙⠷⣼⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⡿⠁⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠹⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⢯⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣰⡾⠋⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣟⠻⣷⣄⠀⠀⠀⠀⠀⠀⠛⠁⠀⠙⠳⢤⣄⣀⠀⠀⠀⠀⠀⢀⣀⣠⣤⡾⠟⠃⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⡄⠈⠙⠳⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠙⢛⣷⠾⠛⠛⠋⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⠛⠒⠚⠛⠋⢙⡟⠲⢤⡀⠀⠀⠀⢠⣤⠴⠞⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⡶⠶⠒⠲⠶⣤⠖⠋⣽⣇⠀⠀⠹⡄⠀⠀⠀⠙⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢀⣴⠟⠁⠀⠀⠀⠀⣼⢃⣠⡾⠟⠋⠀⠀⠀⢳⠀⠀⠀⠀⠈⢷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣾⠃⠀⠀⠀⠀⢀⣼⡿⠛⠉⠀⠀⠀⠀⠀⠀⠘⡄⠀⠀⠀⠀⠀⢻⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⢀⣴⠟⠉⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⢿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢀⣤⣤⣄⣠⡼⢿⡄⠀⢀⣾⠃⠀⠀⠀⠀⠀⣀⣤⠾⠟⠀⠀⢠⠇⠀⠀⠀⠀⠀⠀⠈⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢸⡇⠀⠉⢻⡇⠸⠿⠴⢾⣇⠀⠀⠀⠀⢰⡾⠋⠁⠀⠀⠀⠀⢺⠀⠀⠀⠀⠀⠀⠀⠀⠸⡷⠞⠻⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀
+⢸⡇⠀⠀⠘⢿⣄⣀⣀⣀⣿⣄⠀⠀⠀⠈⢻⣀⡤⠶⠛⠛⠛⠳⣦⠀⠀⠀⠀⠀⠀⠀⠀⣷⠀⠀⠈⢿⠦⣄⡀⠀⠀⠀⠀⠀
+⢸⣧⠀⠀⠀⠀⠈⠉⠉⠉⠀⠙⢧⣀⠀⠀⠀⠉⠀⠀⠀⠀⠲⢤⣿⡀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⢀⣾⠑⠎⢷⡄⠀⠀⠀⠀
+⠀⢿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣷⠄⠀⠀⠀⠀⠀⠀⠀⠀⠙⢷⣄⠀⠀⠀⠀⠀⢀⡿⠷⣶⣞⠁⠀⢀⣼⠇⠀⠀⠀⠀
+⠀⠘⣿⡄⠀⠀⣀⡀⠀⠀⠀⠀⠀⢸⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠆⠀⠀⠀⠀⣼⣧⡀⠀⠙⠓⠒⡿⠋⠀⠀⠀⠀⠀
+⠀⠀⠈⢿⡷⢄⣿⠁⠀⠀⠀⠀⠀⠸⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⠏⠀⠀⠀⠀⣴⣿⠈⠻⠷⢶⣶⠟⠁⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠈⠻⣦⣿⡇⠀⠀⠀⠀⠀⠀⠻⣧⡀⠀⠀⠀⠀⠀⠀⠀⣠⡇⠀⠀⠀⢀⣼⠟⠻⢶⣾⣴⠾⠃⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠈⢻⣧⠀⠀⠀⠀⠀⠀⠀⠈⠻⣶⣤⣀⣀⣠⡾⠋⠉⠀⠀⣀⣴⡿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠉⠉⠉⠀⣀⣤⣴⡿⠟⠁⢸⣏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣰⡶⢿⡇⠀⠀⠀⠀⠀⠀⠀⣸⣿⠿⢿⣿⢿⡟⠋⠉⠁⠀⠀⠀⣸⠟⠻⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠰⣿⠀⠈⠛⠶⠦⢤⣤⣤⣤⣴⠯⠛⣿⣾⡃⠚⠧⠤⣤⣤⣤⠤⠴⠟⠋⠀⣸⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠙⢷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⡿⢷⣄⣀⡀⠀⠀⠀⠀⠀⢀⣠⡴⠟⠚⠋⠛⠛⠷⣶⣄⠀⠀⠀⠀⠀⠀
+
 # 👋 Hi, I'm Yoshi!
 
-I'm a **Full-Stack Developer**, **Machine Learning Explorer**, and **Private Sushi Chef** based in Chicago.  
-I love building things that combine **technology, creativity, and real-world impact**.
+Computer Science student @ **University of Illinois Chicago (UIC) 2027**  
+Aspiring **Software Engineer** • **UI/UX Designer**
+
+</div>
 
 ---
 
-## 🚀 About Me
-- 🎮 Currently building **Mindscape**, a rhythm-based platformer  
-- 🤖 Exploring **Machine Learning** and **Quantum ML**  
-- 🍣 Running a knife-sharpening + private omakase business  
-- 💼 Experience in software engineering, testing, DevOps, and UI/UX  
-- 🎨 I create generative art using p5.js
+## 🎓 Education
+**University of Illinois Chicago (UIC)**  
+- B.S. in Computer Science  
+- Courses: Data Structures, Systems Programming, OOP in C++, Linear Algebra, Machine Organization, Creative Coding
 
 ---
 
-## 🧑‍💻 Tech Stack
-
-**Languages:**  
-C++, Python, JavaScript, SQL  
-
-**Frameworks & Libraries:**  
-React, React Native, Flask, PyTorch  
-
-**Tools:**  
-Git, Linux, Docker, Kubernetes, Firebase  
-
-**Design:**  
-Figma, Adobe XD
+## 🚀 What I'm Working On
+- 🎮 **Trials of Tempo** – rhythm-based platformer game (p5.js + audio analysis)
+- 🛠️ Full-stack side projects (React, Firebase)
+- 📚 Strengthening algorithms & systems fundamentals
 
 ---
 
-## 🏆 Highlights
+## 🧑‍💻 Skills
+**Languages:** C++, C, Python, JavaScript, SQL  
+**Tools:** Git, Linux, VS Code, WinSCP  
+**Frameworks:** React, React Native, Flask  
+**Other:** p5.js, Firebase, Figma  
 
-- 🏥 **GE Healthcare – Software Engineer Intern**  
-  Python tools, automated testing, Pytest/BDD, Kubernetes agents  
+---
 
-- 🍽️ **Alinea Group – Michelin-Star Kitchen Experience**  
-  Roister & Alinea Group (3⭐)  
+## 💼 Experience
+- **GE Healthcare — Software Engineer Intern**  
+  Python automation, Pytest/BDD testing, Kubernetes-based agents, remote diagnostics tooling  
 
-- 🖥️ **Built 3+ full websites from scratch**  
-- 🤖 **Created an AI Stock Trading Bot**  
-- 🥇 **1st Place SQL Challenge Winner**  
+- **i.c.stars — Developer & Mentor**  
+  Agile development, leadership, full-stack prototypes  
 
 ---
 
 ## 📫 Contact
-**Email:** tsuyoshi.harayama@gmail.com  
-
+📧 Email: **tsuyoshi.harayama@gmail.com**
 ---
 
-Thanks for visiting my profile!  
-Feel free to connect or check out more of my projects 👇
+<div align="center">
+
+⭐ Thanks for visiting my profile!
+
+</div>
