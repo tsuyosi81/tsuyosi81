@@ -1,54 +1,53 @@
-# GitHub Action for generating a contribution graph with a snake eating your contributions.
+# 👋 Hi, I'm Yoshi!
 
-name: Generate Snake
+I'm a **Full-Stack Developer**, **Machine Learning Explorer**, and **Private Sushi Chef** based in Chicago.  
+I love building things that combine **technology, creativity, and real-world impact**.
 
-# Controls when the action will run. This action runs every 6 hours.
+---
 
-on:
-  schedule:
-      # every 6 hours
-    - cron: "0 */6 * * *"
+## 🚀 About Me
+- 🎮 Currently building **Mindscape**, a rhythm-based platformer  
+- 🤖 Exploring **Machine Learning** and **Quantum ML**  
+- 🍣 Running a knife-sharpening + private omakase business  
+- 💼 Experience in software engineering, testing, DevOps, and UI/UX  
+- 🎨 I create generative art using p5.js
 
-# This command allows us to run the Action automatically from the Actions tab.
-  workflow_dispatch:
+---
 
-# The sequence of runs in this workflow:
-jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
-    runs-on: ubuntu-latest
+## 🧑‍💻 Tech Stack
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:
+**Languages:**  
+C++, Python, JavaScript, SQL  
 
-    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
+**Frameworks & Libraries:**  
+React, React Native, Flask, PyTorch  
 
-    # Generates the snake  
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: tsuyosi81
-          # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+**Tools:**  
+Git, Linux, Docker, Kubernetes, Firebase  
 
-     # show the status of the build. Makes it easier for debugging (if there's any issues).
-      - run: git status
+**Design:**  
+Figma, Adobe XD
 
-      # Push the changes
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
+---
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          # the output branch we mentioned above
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+## 🏆 Highlights
+
+- 🏥 **GE Healthcare – Software Engineer Intern**  
+  Python tools, automated testing, Pytest/BDD, Kubernetes agents  
+
+- 🍽️ **Alinea Group – Michelin-Star Kitchen Experience**  
+  Roister & Alinea Group (3⭐)  
+
+- 🖥️ **Built 3+ full websites from scratch**  
+- 🤖 **Created an AI Stock Trading Bot**  
+- 🥇 **1st Place SQL Challenge Winner**  
+
+---
+
+## 📫 Contact
+**Email:** tsuyoshi.harayama@gmail.com  
+
+---
+
+Thanks for visiting my profile!  
+Feel free to connect or check out more of my projects 👇
