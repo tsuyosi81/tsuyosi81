@@ -54,7 +54,7 @@ Aspiring **Software Engineer** • **UI/UX Designer**
 
 ## 🚀 What I'm Working On
 - 🎮 **Trials of Tempo** – rhythm-based platformer game (p5.js + audio analysis)
-- 🛠️ Full-stack side projects (React, Firebase)
+- 🛠️ **UIC Campus App** - Social media platform for UIC Campus (React, Firebase)
 - 📚 Strengthening algorithms & systems fundamentals
 
 ---
